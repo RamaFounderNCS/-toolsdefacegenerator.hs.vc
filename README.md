@@ -110,7 +110,7 @@ Alat ini **bukan untuk serangan siber nyata**. Gunakan hanya di lingkungan pengu
 Jika Anda memiliki pertanyaan, kritik, atau ingin berdiskusi:
 
 - GitHub: [@RamaFounderNCS](https://github.com/RamaFounderNCS)
-- Telegram: `@RamaNCS` (jika tersedia di repo)
+- Instagram: [@offcncs](https://www.instagram.com/offcncs)
 
 ---
 
