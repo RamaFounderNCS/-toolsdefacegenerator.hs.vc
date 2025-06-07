@@ -41,8 +41,8 @@
 1. **Klon repositori ini:**
 
    ```bash
-   git clone https://github.com/RamaFounderNCS/-toolsdefacegenerator.hs.vc.git
-   cd -toolsdefacegenerator.hs.vc
+   git clone https://github.com/RamaFounderNCS/toolsdefacegenerator.hs.vc.git
+   cd toolsdefacegenerator.hs.vc
    ```
 
 2. **Buka file `index.html` di browser:**
